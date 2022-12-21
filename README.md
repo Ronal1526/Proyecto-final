@@ -1,6 +1,6 @@
 # Proyecto_final
 
-Este proyecto final tiene inicio de sesion con base de datos despues las cards con sus productos y descripciones y precios ademas del menu desplegable continuando con la card y al selecionar estas se dezplazan al carrito donde se usan los botones de incremento y decremento para la cantidad que quieras comprar en productos ademas de tener iva y subtotal esto se suma y da el total mas abajo tiene el boton para whatsapp el cual te dezplaza a un chat donde aparece o que quieres comprar con el total a pagar 
+Este proyecto final tiene inicio de sesion con base de datos despues las cards con sus productos y descripciones y precios ademas del menu desplegable continuando con la card y al selecionar estas se dezplazan al carrito donde se usan los botones de incremento y decremento para la cantidad que quieras comprar en productos ademas de tener iva y subtotal esto se suma y da el total mas abajo tiene el boton para whatsapp el cual te dezplaza a un chat donde aparece lo que quieres comprar con el total a pagar mi grupo fue de a 3 y todos ayudamos he hicimos justamente nuestras partes
 
 ## Getting Started
 
